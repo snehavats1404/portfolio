@@ -54,7 +54,7 @@ const Data = () => {
                   ></path>
         </svg>   
         </h1>
-        <h3 className="home_subtitle">FRONT-END DEVELOPER</h3>
+        <h3 className="home_subtitle">FULL-STACK WEB DEVELOPER</h3>
         <p className="home_description">I'm a third year 
             engineering student at NSUT,Delhi.
         </p>
